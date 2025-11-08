@@ -42,7 +42,7 @@ After training and evaluating both SimpleRNN and LSTM models for 1-day, 5-day, a
 
 ## 📊 Visualization
 
-![Tesla Stock Price Prediction: LSTM (1-Day Forecast) vs Actual](images/prediction_plot.png)
+![Tesla Stock Price Prediction: LSTM (1-Day Forecast) vs Actual](images/prediction-plot.png)
 
 _(Replace `path/to/your/graph.png` with the actual path to the graph image you saved, e.g., `images/prediction_plot.png`. If you haven't saved it as an image yet, use [File > Save As] in VS Code's plot viewer.)_
 
